@@ -1,0 +1,18 @@
+{
+  "name": "parcels-app",
+  "version": "1.0.0",
+  "description": "BEK Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanyalak studio",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.8",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "pdfmake": "^0.2.7"
+  }
+}
